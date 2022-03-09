@@ -19,10 +19,10 @@
             "type": "string"
           },
           "created_at": {
-            "type": "date"
+            "type": "date-time"
           },
           "updated_at": {
-            "type": "date"
+            "type": "date-time"
           }
         }
       },
